@@ -4,7 +4,7 @@
 Automatic Landing
 =================
 
-This article explains how to land Plane as part of a mission plan and includes information about how a landing can be safely aborted.
+This article explains how to land a Plane as part of a mission plan and includes information about how a landing can be safely aborted.
 
 Configuring for Automatic Landing
 =================================
